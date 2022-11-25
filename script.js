@@ -1,23 +1,23 @@
 var arr = [
   {
-    name: "John",
-    age: "22",
-    gender: "Male",
+    "name": "John",
+    "age": "22",
+    "gender": "Male",
   },
   {
-    name: "Doe",
-    age: "21",
-    gender: "Male",
+    "name": "Doe",
+    "age": "21",
+    "gender": "Male",
   },
   {
-    name: "Ram",
-    age: "25",
-    gender: "Male",
+    "name": "Ram",
+    "age": "25",
+    "gender": "Male",
   },
   {
-    name: "Lisa",
-    age: "23",
-    gender: "Female",
+    "name": "Lisa",
+    "age": "23",
+    "gender": "Female",
   },
 ];
 console.log("Day-3 Task Question 1")
